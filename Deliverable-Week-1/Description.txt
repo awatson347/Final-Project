@@ -1,0 +1,11 @@
+TITLE : QWICKY VUE
+November 19, 2016
+OVERVIEW
+
+1.Description
+Qwicky Vue is a portable user page that will encompass all a personal Bookmarks and Social media feeds into one page accessible from anywhere with an internet connection. =
+
+
+
+2.Value
+I think this is valuable because it will save time and clicks going to several places to stay in the loop and become informed about the things you think are important.
